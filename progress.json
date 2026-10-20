@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:15:41.008Z",
+  "generated_at": "2026-10-20T07:43:47.306Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -211,6 +211,17 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-10-20T06:15:38.972Z",
       "last_pushed_at": "2026-10-20T06:15:38.972Z"
+    },
+    "math:14": {
+      "kind": "math",
+      "id": "14",
+      "title": "Orthogonality and Projections",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/14",
+      "path": "math/0014-orthogonality-and-projections",
+      "first_solved_at": "2026-10-20T07:43:46.269Z",
+      "last_pushed_at": "2026-10-20T07:43:46.269Z"
     }
   }
 }
